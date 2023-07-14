@@ -8,5 +8,5 @@ This repository is a collection of some of my key learnings during my 2022 - 202
 
 ## Portfolio Introduction
 - Hello, my name is Azizbek Ochilov and currently a Junior Engineer at American Express. 
-- I'm resonate with creativity and problem solving, in which software engineering allows me to use my creativity to figure out efficient solutions to critical problems.
+- I resonate with creativity and problem solving, in which software engineering allows me to use my creativity to figure out efficient solutions to critical problems.
 - In my free time, I enjoy going to the gym, cooking up juicy chicken and playing billiards. 
