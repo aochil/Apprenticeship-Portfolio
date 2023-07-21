@@ -1,3 +1,3 @@
-[submodule "project1/backend-java"]
-	path = project1/backend-java
+[submodule "Backend_CRUD/backend-java"]
+	path = Backend_CRUD/backend-java
 	url = https://github.com/perom-azizbek/backend-java.git
