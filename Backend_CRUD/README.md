@@ -17,17 +17,17 @@ This project centers around poems and implementing CRUD operations.
 - Can implement a RESTful API
 - Developed an API to:
 - Create and save a poem to the database
-![img.png](images/img.png)
-![img_1.png](images/img_1.png)
+- ![img.png](images/img.png)
+- ![img_1.png](images/img_1.png)
 - Read poems     
-![img_2.png](images/img_2.png)
-![img_3.png](images/img_3.png)
+- ![img_2.png](images/img_2.png)
+- ![img_3.png](images/img_3.png)
 - Update a poem using it's unique identification
-![img_4.png](images/img_4.png)
-![img_5.png](images/img_5.png)
+- ![img_4.png](images/img_4.png)
+- ![img_5.png](images/img_5.png)
 - Delete a poem using it's unique identification
-![img_6.png](images/img_6.png)
-![img_7.png](images/img_7.png)
+- ![img_6.png](images/img_6.png)
+- ![img_7.png](images/img_7.png)
 - Implemented JPA mapping to API endpoints to perform CRUD operations. 
 By accessing the endpoint, the user can perform actions to the data stored in the MySQL database.
 - I've learned how to create a functioning API, which is a crucial tool for building software applications.
