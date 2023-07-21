@@ -1,3 +1,3 @@
-[submodule "Backend_CRUD_API/backend-java"]
-	path = Backend_CRUD_API/backend-java
+[submodule "Backend_CRUD/backend-java"]
+	path = Backend_CRUD/backend-java
 	url = https://github.com/perom-azizbek/backend-java.git
