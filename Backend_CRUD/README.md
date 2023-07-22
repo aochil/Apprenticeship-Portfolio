@@ -11,10 +11,11 @@ This project centers around poems and implementing CRUD operations.
 - Spring Boot
 - JPA (Java Persistance API)
 - MySQL
+- Postman
 
 ## Competencies
 ### JF 3.6
-- Can implement a RESTful API
+- **Can implement a RESTful API**
 - Developed an API to:
 - Create and save a poem to the database
 - ![img.png](images/img.png)
@@ -35,7 +36,7 @@ I'm able to define specific rules in exchanging data between components. By doin
 
 
 ### JF 3.2
-- Can explain the principles and uses of relational and non-relational databases
+- **Can explain the principles and uses of relational and non-relational databases**
 - Relational databases consist of rows and columns, which is different from the way Java objects are structured. 
   It would have been a difficult process to configure how these poems will get stored in the database without JPA framework.
 - Implemented JPA to map Java objects to a relational database. JPA handles the serialization and deserialization of the objects, which allows Java objects to be stored in databases.
@@ -43,7 +44,7 @@ I'm able to define specific rules in exchanging data between components. By doin
 
 
 ### JF 1.5
-- Can work effectively and contribute appropriately on a team to produce software
+- **Can work effectively and contribute appropriately on a team to produce software**
 - I worked with a team member during the development of this project. In order to succeed as a team, 
   we discussed which technologies we will use before writing any line of code. Since we're both learning Java, 
   we came to an agreement to use Maven to manage project dependencies, Spring Boot/JPA for the API and MySQL for the database.
