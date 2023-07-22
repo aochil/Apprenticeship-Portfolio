@@ -29,8 +29,7 @@ A React project to mimic the Ticketmaster website and display events based on us
 - Managed these states in order to successfully render cards for each event.
 - The array eventList is where all the events are stored.
 - The data array retrieved from the API contained 20 events at a time. In order to view all the events, 
-  user would have to submit another request with the next page number. That is why activePage determines which set of
-  20 events are being displayed. 
+  user would have to submit another request with the next page number. That is why activePage determines which group of events are being displayed. 
 - The string searchText is the value from the search input. 
 - The string query is the modified searchText. The API endpoint accepts keyword input, which must be separated by a comma alone.
   So, using regex, the searchText string is edited to replace any spaces between words with commas and then set as the query.
