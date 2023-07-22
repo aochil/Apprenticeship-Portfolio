@@ -9,7 +9,7 @@ A React project to mimic the Ticketmaster website and display events based on us
 
 ## Competencies
 ### JF 2.5
-- Can implement a responsive User Interface
+- **Can implement a responsive User Interface**
 - Render cards from the data retrieved from Ticketmaster API. 
 - Before search:
 - ![img.png](images/img.png)
@@ -24,7 +24,7 @@ A React project to mimic the Ticketmaster website and display events based on us
 
 
 ### JF 2.7
-- Effectively manages state for complex User Interfaces
+- **Effectively manages state for complex User Interfaces**
 - ![img_5.png](images/img_5.png)
 - Managed these states in order to successfully render cards for each event.
 - The array eventList is where all the events are stored.
@@ -40,7 +40,7 @@ A React project to mimic the Ticketmaster website and display events based on us
   I've learnt that a well, structured state management is necessary when it comes to building a fast and efficient React application.
 
 ### JF 6.6
-- Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve
+- **Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve**
 - Each event object contained an unordered array of image objects, each with a distinct image size and url.
   I first assumed they were in the correct sequence and assigned the first picture url to the card's image source. 
   The images were rendered in different sizes and some were blurry due to the image ratio. I addressed this by mapping
