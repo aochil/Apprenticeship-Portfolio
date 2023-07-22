@@ -1,3 +1,6 @@
 [submodule "Backend_CRUD/backend-java"]
 	path = Backend_CRUD/backend-java
 	url = https://github.com/perom-azizbek/backend-java.git
+[submodule "Frontend_React/ticketmaster"]
+	path = Frontend_React/ticketmaster
+	url = https://github.com/Multiverse-Cardinals/ticketmaster.git
